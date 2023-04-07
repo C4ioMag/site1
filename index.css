@@ -1,0 +1,216 @@
+body{
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    background-image:url(../img/site2.webp) ;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.topo{
+    width: 100%;
+    height: 70px;
+}
+.topo2{
+    width: 100%;
+    height: 130px;
+}
+.topoint{
+    width: 100%;
+    max-width: 1000px;
+    height: 120px;
+    margin: auto;
+}
+.topoint a{
+    float: right;
+}
+.topo3{
+    width: 100%;
+    height: 450px;
+}
+.topo4{
+    width: 100%;
+    height: 40px;
+    display: flex;
+}
+.topoup{
+    width: 100%;
+    max-width: 200px;
+    height: 35px;
+    margin: auto;
+    background-color: aliceblue;
+    border-radius: 10px;
+    text-align: center;
+    color: black;
+
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.topo5{
+    width: 100%;
+    height: 700px;
+}
+.topo6{
+    width: 100%;
+    height: 1300px;
+    align-items: center;
+    display: grid;
+}
+.youtube{
+    width: 100%;
+    height: 150px;
+    background-color: red;
+}
+.y{
+    width: 100%;
+    max-width: 900px;
+    height: 150px;
+    margin: auto;
+}
+.y a{
+    float:left;
+}
+.dj{
+    width: 100%;
+    height: 150px;
+    background-color: blue;
+    margin: auto;
+}
+.dj a{
+    float: left;
+}
+.d{
+    width: 100%;
+    max-width: 900px;
+    height: 150px;
+    margin: auto;
+}
+
+.music{
+    width: 100%;
+    height: 150px;
+    background-color: aqua;
+}
+.m{
+    width: 100%;
+    max-width: 900px;
+    height: 150px;
+    margin: auto;
+}
+.m a{
+    float: left;
+}
+
+.spotify{
+    width: 100%;
+    height: 150px;
+    background-color: green;
+}
+.s{
+    width: 100%;
+    max-width: 900px;
+    height: 150px;
+    margin: auto;
+}
+.s a{
+    float: left;
+}
+.apple{
+    width: 100%;
+    height: 150px;
+    background-color: purple;
+}
+.a{
+    width: 100%;
+    max-width: 900px;
+    height: 150px;
+    margin: auto;
+}
+.a a{
+    float: left;
+}
+.sounds{
+    width: 100%;
+    height: 150px;
+    background-color: blue;
+}
+.sou{
+    width: 100%;
+    max-width: 900px;
+    height: 150px;
+    margin: auto;
+}
+.sou a{
+    float: left;
+}
+.cloud{
+    width: 100%;
+    height: 150px;
+    background-color: orange;
+}
+.c{
+    width: 100%;
+    max-width: 900px;
+    height: 150px;
+    margin: auto;
+}
+.c a{
+    float: left;
+}
+.tour{
+    width: 100%;
+    height: 150px;
+    background-color: red;
+}
+.t{
+    width: 100%;
+    max-width: 900px;
+    height: 150px;
+    margin: auto;
+}
+.t a{
+    float: left;
+}
+.store{
+    width: 100%;
+    height: 150px;
+    background-color: aquamarine;
+}
+.st{
+    width: 100%;
+    max-width: 900px;
+    height: 150px;
+    margin: auto;
+}
+.st a{
+    float: left;
+}
+.vip{
+    width: 100%;
+    height: 150px;
+    background-color: yellow;
+}
+.v{
+    width: 100%;
+    max-width: 900px;
+    height: 150px;
+    margin: auto;
+}
+.v a{
+    float: left;
+}
+.contato{
+    width: 100%;
+    height: 150px;
+    background-color: black;
+}
+.tt{
+    width: 100%;
+    max-width: 900px;
+    height: 150px;
+    margin: auto;
+}
+.tt a{
+    float: left;
+}
